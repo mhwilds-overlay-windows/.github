@@ -20,7 +20,8 @@ Built with hunters in mind, MHWilds Overlay helps track **individual DPS, monste
 ## 📸 Overview
 A quick look at key parts in action:
 
-![mhwilds-damage](https://github.com/user-attachments/assets/283a3d7c-7416-4549-8b96-0071798b7d15)
+![mhwilds-damage](https://github.com/user-attachments/assets/2c11bf5b-f409-4dda-b2a5-1c610b7dfc66)
+
 
 ---
 
